@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "csv-parse": "^6.1.0",
+    "express": "^5.2.1",
+    "mongodb": "^7.1.0",
+    "multer": "^2.1.0",
+    "mysql2": "^3.18.2",
+    "node": "^25.7.0"
+  }
+}

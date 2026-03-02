@@ -1,0 +1,6 @@
+id_contrato,pago_total,id_empresa,id_cliente
+CON-101,5000,1,1
+CON-102,3500,2,3
+CON-103,1200,1,2
+CON-104,4500,3,4
+CON-105,2800,4,5
